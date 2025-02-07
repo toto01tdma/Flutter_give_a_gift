@@ -1,6 +1,6 @@
 # give_a_gift
 
-A new Flutter project.
+This game is a game I created for my girlfriend. It's a puzzle-solving game where you uncover clues step by step to figure out where the birthday gift is hidden.
 
 ## Getting Started
 
